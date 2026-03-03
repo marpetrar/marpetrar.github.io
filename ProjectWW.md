@@ -37,5 +37,7 @@ Thanks to Unity, [the game is playable right in your browser.](http://mvpet.gith
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_Ku3A7V1wE?si=7azvp1fPLkifF1Kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<br/>
-[Back to Main Page](http://marpetrar.github.io/)
+
+<div style="text-align: center;">
+<a href="http://marpetrar.github.io/">Back to Main Page</a>
+</div>
