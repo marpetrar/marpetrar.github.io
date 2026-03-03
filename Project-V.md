@@ -3,8 +3,8 @@
 <p style="font-size: 15pt;">A Fan's Attempt at Capcom Vs. Capcom</p>
 </div>
 
-***Developed With: C++ with SFML***\
-***Development Time: July 2016 to December 2016***
+<b><i>Developed With: C++ with SFML</i></b><br/>
+<b><i>Development Time: July 2016 to December 2016</i></b>
 
 This is my most recent project and last fan game I developed. The project began after reading the rumor about the fabled Capcom Vs. Capcom game that, had it been made, would have been based on Marvel Vs Capcom 3. I have always wanted to create a fighting game and with the lack of a Capcom Versus game, I decided to take a shot at developing a Capcom Vs. Capcom. However, with the recent announcement of Marvel Vs Capcom Infinite and ports of Ultimate Marvel Vs Capcom 3, I have decided to stop development on this fan game.
 
@@ -53,15 +53,15 @@ Assists have their share of unique moves that can be performe:
 </ul>
 
 
-***This is a nonprofit prototype.***\
-***All content used (Music, Graphics, Fonts) are owned by Capcom.***\
-***Please support the official releases.***
+<b><i>This is a nonprofit prototype.</i></b><br/>
+<b><i>All content used (Music, Graphics, Fonts) are owned by Capcom.</i></b><br/>
+<b><i>Please support the official releases.</i></b>
 
 <div style="text-align: center;">
 <p style="font-size: 15pt;">Video:</p><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gS0Z03F4wWI?si=GNqjTGf5Sga7MaOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br/>
 <div style="text-align: center;">
 <a href="http://marpetrar.github.io/">Back to Main Page</a>
 </div>
