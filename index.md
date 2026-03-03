@@ -8,7 +8,7 @@ A third-person action game inspired by E.X. Troopers and Nier.
 Alpha footage available for viewing at the game's page.
 
 _Developed With: C++, Unreal, Blueprints, Blender_\
-_Development Time: Present_
+_Estimated Release: Late 2026 / Early 2027_
 
 <div style="text-align: center;">
 <p style="font-size: 20pt;">Dev Tools</p>
