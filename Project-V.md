@@ -26,17 +26,14 @@ Additionally, I have implemented a form of scripting that allows me to easily cr
 
 The game and framework have the following features:
 
-    Support for two players simultaneously.
-
-    DInput/XInput Controller support and Keyboard support
-
-    Dynamic detection of controllers (Only at startup in current build)
-
-    Marvel vs. Capcom-like Partner System
-
-    Support for a number of different fighting game style inputs.
-
-    Marvel vs. Capcom-like combo system
+<ul>
+<li>Support for two players simultaneously.</li>
+<li>DInput/XInput Controller support and Keyboard support</li>
+<li>Dynamic detection of controllers (Only at startup in current build)</li>
+<li>Marvel vs. Capcom-like Partner System</li>
+<li>Support for a number of different fighting game style inputs.</li>
+<li>Marvel vs. Capcom-like combo system</li>
+</ul>
 
 <div style="text-align: center;">
 <p style="font-size: 15pt;">The Demo</p>
@@ -49,11 +46,11 @@ The gamplay is reminiscent of Marvel vs Capcom 3. There are Light, Medium, Heavy
 Assists can be summoned to provide a helpful boost in battle. Be it to attack from afar or to help extend your combo, simply press the Assist button and your partner will jump on screen to help.
 Assists have their share of unique moves that can be performe:
 
-    Inputting QCF + Assist will use up one special bar and perform a Snap Back which will swap out the opponent wth his Assist, if playable.
-
-    A Cross-Assault can be done by holding down the Assist button whcih will have your parter attack while swaping out with your current character, but this cannot be used with non-playable assists.
-
-    Lastly, a Hyper Swap can be done, while performing a Hyper Attack, input the motions for your assist's Hyper Attack, and your assist will swap with the current character and perform their Hyper Attack. Like the above move, this cannot be used with non-playable assists.
+<ul>
+<li>Inputting QCF + Assist will use up one special bar and perform a Snap Back which will swap out the opponent wth his Assist, if playable.</li>
+<li>A Cross-Assault can be done by holding down the Assist button whcih will have your parter attack while swaping out with your current character, but this cannot be used with non-playable assists.</li>
+<li>Lastly, a Hyper Swap can be done, while performing a Hyper Attack, input the motions for your assist's Hyper Attack, and your assist will swap with the current character and perform their Hyper Attack. Like the above move, this cannot be used with non-playable assists.</li>
+</ul>
 
 
 ***This is a nonprofit prototype.***\
@@ -64,5 +61,7 @@ Assists have their share of unique moves that can be performe:
 <p style="font-size: 15pt;">Video:</p><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gS0Z03F4wWI?si=GNqjTGf5Sga7MaOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<br/>
-[Back to Main Page](http://marpetrar.github.io/)
+
+<div style="text-align: center;">
+<a href="http://marpetrar.github.io/">Back to Main Page</a>
+</div>
