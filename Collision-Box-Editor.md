@@ -3,8 +3,8 @@
 <p style="font-size: 15pt;">A Collision Box and Frame-Time Editor for 2D Sprite-Based Animations</p>
 </div>
 
-___Developed With: C++, Boost, and SDL___\
-___Development Time : January 2015 to March 2015___
+<b><i>Developed With: C++, Boost, and SDL</i></b><br/>
+<b><i>Development Time : January 2015 to March 2015</i></b>
 
 This is a tool I developed to assist me in creating the collision boxes for my games. It allows the creation and editing of 3 types of collision boxes, Hit, Hurt, and Bounding boxes. I also added the ability to play the animation and edit the time per frame. When the animation is playing, the collision boxes will be displayed in real time allowing me to see how the animation looks without having to implement the boxes into the game.
 
