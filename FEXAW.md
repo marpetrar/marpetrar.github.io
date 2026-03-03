@@ -1,5 +1,6 @@
 ---
 title: Turn-Based Strategy Prototype
+layout: default
 ---
 
 ___Developed With: C++ and SFML___\
