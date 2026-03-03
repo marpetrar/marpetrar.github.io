@@ -1,7 +1,3 @@
----
-title: marpetrar's Github Page
----
-
 <div style="text-align: center;">
 <p style="font-size: 20pt;">In Development</p>
 </div>
