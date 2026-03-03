@@ -27,7 +27,7 @@ There are two different save options, Save To File and Save To Code. Save To Fil
 <p style="font-size: 15pt;">Screenshot:</p><br/>
 <img src="https://mvpet.github.io/Collision-Box-Editor/CollisionBoxEditorScreenshot.png">
 </div>
-
+<br/>
 <div style="text-align: center;">
 <a href="http://marpetrar.github.io/">Back to Main Page</a>
 </div>
