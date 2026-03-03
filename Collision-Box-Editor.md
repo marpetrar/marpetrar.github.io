@@ -14,16 +14,20 @@ There are two different save options, Save To File and Save To Code. Save To Fil
 <p style="font-size: 15pt;">Features</p>
 </div>
 
-*Create, edit and duplicate the collition boxes for each sprite in an animation
-*Each sprite has the capacity for one hit box, one bound box and multiple hurt boxes
-*Can edit the duration of each sprite in the aniamtion
-*Can play the animation with the boxes and frame values currently set
-*Save and load the box and frame data to an external text file
-*Save the box and frame data as code I can paste directly into my project
+<ul>
+<li>reate, edit and duplicate the collition boxes for each sprite in an animation</li>
+<li>Each sprite has the capacity for one hit box, one bound box and multiple hurt boxes</li>
+<li>Can edit the duration of each sprite in the aniamtion</li>
+<li>Can play the animation with the boxes and frame values currently set</li>
+<li>Save and load the box and frame data to an external text file</li>
+<li>Save the box and frame data as code I can paste directly into my project</li>
+</ul>
 
 <div style="text-align: center;">
 <p style="font-size: 15pt;">Screenshot:</p><br/>
-![](https://mvpet.github.io/Collision-Box-Editor/CollisionBoxEditorScreenshot.png)
+<img src="https://mvpet.github.io/Collision-Box-Editor/CollisionBoxEditorScreenshot.png">
 </div>
 
+<div style="text-align: center;">
 [Back to Main Page](http://marpetrar.github.io/)
+</div>
