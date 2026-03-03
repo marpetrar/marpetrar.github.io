@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<p style="font-size: 20pt;">Turn-Based Strategy Prototype</p>
-</div>
+---
+title: Turn-Based Strategy Prototype
+---
 
 ___Developed With: C++ and SFML___\
 ___Development Time: June 2014 to August 2014___
