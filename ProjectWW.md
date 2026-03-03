@@ -3,8 +3,8 @@
 <p style="font-size: 15pt;">A Fusion of Dynasty Warriors and Beat Em Up</p>
 </div>
 
-***Developed With: C# and Unity***\
-***Development Time: January 2016 to April 2016***
+<b><i>Developed With: C# and Unity</i></b><br/>
+<b><i>Development Time: January 2016 to April 2016</i></b>
 
 This project originally began with me wanting to create a 2D version of Koei Tecmo's Dynasty Warriors series. As I got around to planning it out, I discovered that a 2D Dynasty Warriors is very similar to a 2D Beat 'Em Up so I decided to make a game combining the two concepts, a 2D Beat Em Up with Dynasty Warriors gameplay. I decided to use Street Fighter as the theme since my favorite Beat Em Ups were made by Capcom and a Street Fighter Warriors sounded like a cool idea. However, I have stopped development on this game due to the lack of interest for the demo.
 
@@ -27,9 +27,9 @@ The combo list for the prototype is like so (L = Light Attack, H = Heavy Attack)
 
 Thanks to Unity, [the game is playable right in your browser.](http://mvpet.github.io/ProjectWW/WeeklyBuild.html) (Unity Web Player required).
 
-***This is a nonprofit prototype.***\
-***All content used (Music, Graphics, Fonts) are owned by Capcom.***\
-***Please support the official releases.***
+<b><i>This is a nonprofit prototype.</i></b><br/>
+<b><i>All content used (Music, Graphics, Fonts) are owned by Capcom.</i></b><br/>
+<b><i>Please support the official releases.</i></b>
 
 <div style="text-align: center;">
 <p style="font-size: 15pt;">Videos:</p><br/>
@@ -37,7 +37,7 @@ Thanks to Unity, [the game is playable right in your browser.](http://mvpet.gith
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_Ku3A7V1wE?si=7azvp1fPLkifF1Kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br/>
 <div style="text-align: center;">
 <a href="http://marpetrar.github.io/">Back to Main Page</a>
 </div>
