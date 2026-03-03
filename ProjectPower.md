@@ -3,8 +3,8 @@
 <p style="font-size: 15pt;">A 3D Beat 'Em Up Indie Game</p>
 </div>
 
-***Developed With: C++, Unreal, Blueprints, Blender***\
-***Estimated Release: Late 2026 / Early 2027***
+<b><i>Developed With: C++, Unreal, Blueprints, Blender</i></b><br/>
+<b><i>Estimated Release: Late 2026 / Early 2027</i></b>
 
 What started off as a learning exercise in 3D game development eventually grew into a full game project. The game is a third-person action game that takes inspiration from 3D beat 'em ups. In keeping with the theme of being a learning exercise, all code and models (model, rigging, animations) was created from scratch by me.
 
@@ -36,4 +36,6 @@ Brawl your way across 40+ levels facing off against ever changing enemy diversit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGhrahAhg18?si=SiyiisgBpTU5P_2m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br/>
-[Back to Main Page](http://marpetrar.github.io/)
+<div style="text-align: center;">
+<a href="http://marpetrar.github.io/">Back to Main Page</a>
+</div>
