@@ -22,7 +22,7 @@ The prototype has a 2-player 1v1 mode where the goal is to capture the enemy's H
 <p style="font-size: 15pt;">Video:</p><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BAsrW2xo1lI?si=eGI-sATaxqUM7MXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br/>
 <div style="text-align: center;">
 <a href="http://marpetrar.github.io/">Back to Main Page</a>
 </div>
