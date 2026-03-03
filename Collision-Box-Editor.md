@@ -15,7 +15,7 @@ There are two different save options, Save To File and Save To Code. Save To Fil
 </div>
 
 <ul>
-<li>reate, edit and duplicate the collition boxes for each sprite in an animation</li>
+<li>Create, edit and duplicate the collition boxes for each sprite in an animation</li>
 <li>Each sprite has the capacity for one hit box, one bound box and multiple hurt boxes</li>
 <li>Can edit the duration of each sprite in the aniamtion</li>
 <li>Can play the animation with the boxes and frame values currently set</li>
@@ -29,5 +29,5 @@ There are two different save options, Save To File and Save To Code. Save To Fil
 </div>
 
 <div style="text-align: center;">
-[Back to Main Page](http://marpetrar.github.io/)
+<a href="http://marpetrar.github.io/">Back to Main Page</a>
 </div>
